@@ -6,4 +6,7 @@ Kaggle competition with CNN
   2. Improved Model:
   https://github.com/hamzafar/mnist/blob/master/CNN%20imporvement.ipynb
   
+  
+  3. The best Model achieved top 16% at the time of submission:
+  
 
