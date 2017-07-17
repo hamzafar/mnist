@@ -9,4 +9,5 @@ Kaggle competition with CNN
   
   3. The best Model achieved top 16% at the time of submission:
   https://github.com/hamzafar/mnist/blob/master/CNN%20Complex.ipynb
+  
 
